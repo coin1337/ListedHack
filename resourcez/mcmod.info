@@ -1,0 +1,16 @@
+[{
+	"modid"        : "listedhack",
+	"name"         : "ListedHack",
+	"description"  : "1.12 Anarchy pvp client",
+	"version"      : "6.9",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "",
+	"updateUrl"    : "",
+	"authorList"   : ["travis,Listed"],
+	"credits"      : "travis,Listed",
+	"logoFile"     : "logo.png",
+	"screenshots"  : [],
+	"dependencies" : []
+
+}]
+ //hi
